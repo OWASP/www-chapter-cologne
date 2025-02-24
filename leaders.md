@@ -1,4 +1,4 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Pablo Endres](mailto:pablo.endres@owasp.org)
+* [Katherine Leese](mailto:katherine.leese@owasp.org)
+* [Lars Hermerschmidt](mailto:lars.hermerschmidt@owasp.org)

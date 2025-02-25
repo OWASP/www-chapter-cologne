@@ -58,12 +58,12 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 
 * December 10, 2025: Topic to be announced.
 
-```
 
+<!--
 ## Next Meeting/Event
 ---------------------
 {% comment %}
 {% include chapter_events.html group=page.meetup-group %}
 {% endcomment %}
 
-'''
+-->

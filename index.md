@@ -6,6 +6,7 @@ tags: Cologne Köln
 region: Europe
 country: Germany
 meetup-group: tbd
+postal-code: 50670
 
 ---
 

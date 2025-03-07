@@ -1,9 +1,9 @@
 ---
-layout:  col-sidebar
-title: PastEvents
+layout:  null
+title: pastevents
 displaytext: Past Events
 tab: true
-level: 2
+order: 1
 tags: koeln
 ---
 

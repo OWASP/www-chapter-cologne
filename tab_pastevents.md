@@ -1,9 +1,10 @@
 ---
-title: Past Events
-layout:  null
+layout:  col-sidebar
+title: PastEvents
+displaytext: Past Events
 tab: true
-order: 1
-tags: cologne koeln
+level: 2
+tags: koeln
 ---
 
 ### Vergangene Stammtische

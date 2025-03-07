@@ -1,10 +1,12 @@
 ---
+
 layout:  null
 title: pastevents
 displaytext: Past Events
 tags: Cologne Köln
 tab: true
 tags: koeln
+
 ---
 
 ### Vergangene Stammtische

@@ -2,8 +2,8 @@
 layout:  null
 title: pastevents
 displaytext: Past Events
+tags: Cologne Köln
 tab: true
-order: 1
 tags: koeln
 ---
 

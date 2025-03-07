@@ -64,7 +64,7 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 ## Next Meeting/Event
 ---------------------
 {% comment %}
-{% include chapter_events.html group=page.meetup-group %}
+{% include tab_pastevents.md group=page.meetup-group %}
 {% endcomment %}
 
 -->

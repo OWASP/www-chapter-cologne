@@ -1,8 +1,8 @@
 ---
 
 layout:  col-sidebar
-title: pastevents
-displaytext: Upcming Events
+title: upcomingevents
+displaytext: Upcoming Events
 tags: Cologne Köln
 tab: true
 level: 1

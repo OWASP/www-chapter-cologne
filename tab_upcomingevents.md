@@ -5,7 +5,7 @@ title: upcomingevents
 displaytext: Upcoming Events
 tags: Cologne Köln
 tab: true
-level: 1
+level: 2
 
 ---
 

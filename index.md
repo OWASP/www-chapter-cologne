@@ -70,6 +70,3 @@ Everyone is welcome and encouraged to participate. We especially encourage diver
 {% endcomment %}
 
 -->
-
-
-{% include tab_upcomingevents.md}

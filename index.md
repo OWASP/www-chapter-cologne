@@ -12,6 +12,7 @@ postal-code: 50670
 
 
 ## Welcome
+![LOGO](assets/images/owasp-banner.png)
 The OWASP Cologne Chapter is an open and inclusive community focused on application security. For several years, we have gathered as a Stammtisch, meeting regularly to discuss security topics, share knowledge, and connect with others interested in software security. Now, as an official OWASP chapter, we continue this tradition while expanding our discussions and engagement within the local security community.
 
 Cologne has a thriving tech scene, with a strong mix of startups, established companies, and research institutions. Our chapter provides a welcoming space for developers, security professionals, students, and researchers to exchange knowledge, stay updated on security trends, and strengthen application security practices.

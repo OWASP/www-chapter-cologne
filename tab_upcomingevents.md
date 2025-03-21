@@ -21,4 +21,4 @@ Wie bereitet man sich effektiv auf Cyberangriffe vor? Statt Sicherheitsmaßnahme
 [Gettogether](https://gettogether.community/events/79412/45-k%C3%B6lner-owasp-stammtisch/)
 
 
-[Location - Startplatz](https://www.startplatz.de/)
+[Location - Startplatz](https://www.startplatz.de/) Raum Barcelona, 1ste Etage, 19Uhr

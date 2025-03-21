@@ -42,6 +42,7 @@ Everyone is welcome and encouraged to participate. We especially encourage diver
 
 * March 27, 2025: Talk: "Threat Informed Defense" - Timo Sablowski
   * Wie bereitet man sich effektiv auf Cyberangriffe vor? Statt Sicherheitsmaßnahmen mit der Gießkanne zu verteilen, setzt Threat Informed Defense auf echte Bedrohungsdaten und Angreifertaktiken, um Schutz gezielt zu priorisieren. In diesem Vortrag wird gezeigt, wie Unternehmen und Behörden ihre Verteidigung strategisch optimieren können.
+  * 19uhr, Raum Barcelona (direkt neben Raum Rom, Etage 1.)
 
 * April 23, 2025: Topic to be announced.
 

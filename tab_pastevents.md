@@ -15,6 +15,16 @@ order: 2
 
 Talk: "Threat Informed Defense" - Timo Sablowski
   * Wie bereitet man sich effektiv auf Cyberangriffe vor? Statt Sicherheitsmaßnahmen mit der Gießkanne zu verteilen, setzt Threat Informed Defense auf echte Bedrohungsdaten und Angreifertaktiken, um Schutz gezielt zu priorisieren. In diesem Vortrag wird gezeigt, wie Unternehmen und Behörden ihre Verteidigung strategisch optimieren können.
+  
+- Verizon Data Breach Investigations Report: https://www.verizon.com/business/resources/reports/dbir/
+- MITRE ATT&CK Framework: https://attack.mitre.org
+- MITRE Top Attack Tools: https://top-attack-techniques.mitre-engenuity.org
+- APT-Gruppen (BSI): https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Cyber-Sicherheitslage/Analysen-und-Prognosen/Threat-Intelligence/Aktive_APT-Gruppen/aktive-apt-gruppen_node.html
+- Aktive Ransomware-Gruppen: https://www.ransomware.live
+- MITRE Adversary Groups: https://attack.mitre.org/groups/
+- MITRE Caldera: https://caldera.mitre.org/
+- Atomic Red Team: https://github.com/redcanaryco/atomic-red-team
+- AttackIQ: https://www.attackiq.com/
 
 #### 44./ Kölner OWASP Stammtisch am 20.02.2025
 

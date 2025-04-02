@@ -11,5 +11,5 @@ order: 1
 
 ### Upcoming Events
 
-## Mai 22 2025 - 
+## Mai 22 2025
 Wir suchen noch einen referenten. haben sie ein interessantes präsentations- oder gesprächsthema, das sie mitbringen könnten? Nehmen Sie Kontakt mit uns auf!

@@ -11,6 +11,11 @@ order: 2
 
 ### Vergangene Stammtische
 
+#### 45./ Kölner OWASP Stammtisch am 27.03.2025
+
+Talk: "Threat Informed Defense" - Timo Sablowski
+  * Wie bereitet man sich effektiv auf Cyberangriffe vor? Statt Sicherheitsmaßnahmen mit der Gießkanne zu verteilen, setzt Threat Informed Defense auf echte Bedrohungsdaten und Angreifertaktiken, um Schutz gezielt zu priorisieren. In diesem Vortrag wird gezeigt, wie Unternehmen und Behörden ihre Verteidigung strategisch optimieren können.
+
 #### 44./ Kölner OWASP Stammtisch am 20.02.2025
 
 Wir haben diesmal keinen Vortragenden, aber wir treffen uns für eine Diskussionsrunde! Unser Ausgangspunkt für die Diskussion wird dieser Artikel sein:

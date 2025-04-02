@@ -39,28 +39,14 @@ Everyone is welcome and encouraged to participate. We especially encourage diver
 
 ## Upcoming Events 2025
 
+* May 22, 2025: Topic to be announced.
 
-* March 27, 2025: Talk: "Threat Informed Defense" - Timo Sablowski
-  * Wie bereitet man sich effektiv auf Cyberangriffe vor? Statt Sicherheitsmaßnahmen mit der Gießkanne zu verteilen, setzt Threat Informed Defense auf echte Bedrohungsdaten und Angreifertaktiken, um Schutz gezielt zu priorisieren. In diesem Vortrag wird gezeigt, wie Unternehmen und Behörden ihre Verteidigung strategisch optimieren können.
-  * 19uhr, Raum Barcelona (direkt neben Raum Rom, Etage 1.)
+* July 24, 2025: Topic to be announced.
 
-* April 23, 2025: Topic to be announced.
+* September 18, 2025: Topic to be announced.
 
-* May 21, 2025: Topic to be announced.
+* November 27, 2025: Topic to be announced.
 
-* June 18, 2025: Topic to be announced.
-
-* July 16, 2025: Topic to be announced.
-
-* August 20, 2025: Topic to be announced.
-
-* September 17, 2025: Topic to be announced.
-
-* October 15, 2025: Topic to be announced.
-
-* November 12, 2025: Topic to be announced.
-
-* December 10, 2025: Topic to be announced.
 
 
 <!--

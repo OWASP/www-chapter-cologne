@@ -4,7 +4,7 @@ We meet bi-monthly on the third Thursday at Startplatz in Köln.
 Our events focus on discussions, guest talks, and knowledge-sharing around security topics.
 
 ### Social Links
-* [Meetup](#)
+* [Meetup](https://www.meetup.com/owasp-cologne-chapter/)
 * [Linked-In](https://www.linkedin.com/groups/12891031/)
 
 

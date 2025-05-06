@@ -11,7 +11,7 @@ order: 1
 
 ### Upcoming Events
 
-## Mai 22 2025
+## 46. Cologne OWASP Stammtisch am 22.05.2025
 
 OWASP Cologne und REWE digital laden zum nächsten Stammtisch ein. REWE digital gewährt exklusive Einblicke in sein Red Team – vorgestellt von der Racoonbande um Benji und Melih. Wir freuen uns über inspirierende Talks und Gespräche; Essen & Getränke gehen wie immer auf uns. Bis bald!
 

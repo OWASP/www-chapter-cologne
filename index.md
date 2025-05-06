@@ -10,7 +10,7 @@ postal-code: 50670
 
 ---
 
-## Upcoming Events
+## Next Event
 
 #### Mai 22 2025
 

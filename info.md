@@ -6,5 +6,6 @@ Our events focus on discussions, guest talks, and knowledge-sharing around secur
 ### Social Links
 * [Meetup](https://www.meetup.com/owasp-cologne-chapter/)
 * [Linked-In](https://www.linkedin.com/groups/12891031/)
+* [OWASP Slack](https://owasp.org/slack/invite) - join #chapter-cologne
 
 

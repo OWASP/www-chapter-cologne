@@ -9,7 +9,7 @@ order: 2
 
 ---
 
-### Vergangene Stammtische
+### Past Events
 
 ## 46. Cologne OWASP Stammtisch am 22.05.2025
 

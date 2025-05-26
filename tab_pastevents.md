@@ -19,7 +19,7 @@ Das Red Team von REWE digital stellt sich vor und gibt euch einen exklusiven Ein
 
 Melih & Benji zeigen euch: 🔍 Unsere Red Teaming Infrastruktur🎯 wie wir Taktiken, Techniken und Verfahren (TTPs) erstellen 🛡️ Bedrohungsplanung 🔄 Unterschiede zwischen Red Team Assessments und Penetrationstests
 
-Nach den Talk bleibt genug Zeit für den Austausch bei kühlen Getränken und leckeren Snacks. Bis bald!
+Slides - [OWASP Stammtisch #42 - Meet the Raccoons - Ghosts in the pipelines.pdf](slides/OWASP%20Stammtisch%20#42%20-%20Meet%20the%20Raccoons%20-%20Ghosts%20in%20the%20pipelines.pdf)
 
 
 #### 45. Kölner OWASP Stammtisch am 27.03.2025

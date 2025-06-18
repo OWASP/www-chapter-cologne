@@ -14,7 +14,7 @@ postal-code: 50670
 
 ## Next Event
 
-We are looking for a speaker for our next Stammtisch on **July 25 2025**. Please get in touch if you have a topic that you wish to share
+We are looking for a speaker for our next Stammtisch on **July 24 2025**. Please get in touch if you have a topic that you wish to share
 
 ## About Us
 

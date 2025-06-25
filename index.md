@@ -18,7 +18,7 @@ postal-code: 50670
 
 Our next Stammtisch will be focused on Authentication — welcome to Authocalypse Now. First up there will be a talk from Daniel Fett.  The talk will be followed by the opportunity to share your authentication war stories. You can simply bring your story on the evening, or if you want to register in advance please get in touch with one of the leaders (links in the sidebar).
 
-The event will be held at Startplatz, Im Mediapark 5, 50670 Köln and we will start at 7pm.  Room tba
+The event will be held at Startplatz, Im Mediapark 5, 50670 Köln and we will start at 7pm.  Room - Rome, 1st floor
 
 ### The Evolving Threat Landscape of OAuth: Securing the Backbone of Modern Authentication - Daniel Fett
 

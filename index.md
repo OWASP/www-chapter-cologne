@@ -14,7 +14,7 @@ postal-code: 50670
 
 ## Next Event
 
-## 47. Cologne OWASP Stammtisch am 24-07-2025
+## 47. Cologne OWASP Stammtisch  2025-07-24
 
 Our next Stammtisch will be focused on Authentication. First up there will be a talk from Daniel Fett.  The talk will be followed by the opportunity to share your authentication war stories. You can simply bring your story on the evening, or if you want to register in advance please get in touch with one of the leaders (links in the sidebar).
 

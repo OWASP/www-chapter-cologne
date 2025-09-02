@@ -11,6 +11,18 @@ order: 2
 
 ### Past Events
 
+## 47. Cologne OWASP Stammtisch  2025.07.24
+
+The talk will be followed by the opportunity to share your authentication war stories. 
+
+### The Evolving Threat Landscape of OAuth: Securing the Backbone of Modern Authentication - Daniel Fett
+
+OAuth 2.0 is everywhere. It’s the foundation of secure delegated access on the web, powering everything from social logins to financial APIs and identity verification systems. It enables seamless user experiences and federated authentication through OpenID Connect, while also playing a growing role in emerging technologies like digital wallets. But with great adoption comes great responsibility—and, unfortunately, great risk.
+ 
+OAuth wasn’t originally designed for the high-stakes environments it now protects. Today, it's securing billions of transactions, yet many implementations still contain critical vulnerabilities. Outdated practices, subtle misconfigurations, and new attack vectors continue to put users and organizations at risk. The good news? The IETF and the OpenID Foundation are taking action. New standards introduce essential updates to strengthen OAuth and OpenID Connect security, deprecating insecure options and addressing modern threats.
+ 
+In this talk, Daniel will explore the evolving security challenges of OAuth, dissect real-world attack scenarios, and break down the most crucial updates delivered by recently released specifications. Whether you're an architect, developer, or security leader, you’ll leave with a clear understanding of what’s changing, what’s at stake, and what you must do to keep your OAuth implementations secure.
+
 ## 46. Cologne OWASP Stammtisch am 22.05.2025
 
 OWASP Cologne und REWE digital laden zum nächsten Stammtisch ein. REWE digital gewährt exklusive Einblicke in sein Red Team – vorgestellt von der Racoonbande um Benji und Melih. Wir freuen uns über inspirierende Talks und Gespräche; Essen & Getränke gehen wie immer auf uns. Bis bald!

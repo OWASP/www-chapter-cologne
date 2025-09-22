@@ -11,6 +11,13 @@ order: 2
 
 ### Past Events
 
+## 48. Cologne OWASP Stammtisch  2025.09.18
+### Sicherheit in der Software-Supply-Chain - Tim Bastin
+
+Die Absicherung der Software-Supply-Chain ist heute eine der größten Herausforderungen in der Softwareentwicklung. Komplexe Abhängigkeiten und der unbedachte Einsatz fremder Komponenten erhöhen das Risiko gezielter Angriffe, wie die Vorfälle um XZ Utils und SolarWinds zeigten. In diesem Vortrag beleuchten wir aktuelle Bedrohungen in der Supply-Chain und stellen praxisnahe Ansätze vor, wie sich Risiken mit etablierten Frameworks wie z. B. der OWASP DevSecOps Pipeline und SLSA wirksam reduzieren lassen.
+
+Slides - [OWASP Stammtisch #48 - Sicherheit in der Software Supply-Chain](slides/OWASP-Cologne-48-Sicherheit-in-der-Software-Supply-Chain.pdf)
+
 ## 47. Cologne OWASP Stammtisch  2025.07.24
 
 The talk will be followed by the opportunity to share your authentication war stories. 

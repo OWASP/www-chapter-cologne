@@ -11,7 +11,7 @@ order: 1
 
 ### Upcoming Events
 
-## 48. Cologne OWASP Stammtisch  2025.11.27
+## 49. Cologne OWASP Stammtisch  2025.11.27
 ### MCP und Security - Dominik Guhr
 ### REWE Digital, Schanzenstr. 6-20, Kupferwerk 2.20, 1 OG, Köln
 

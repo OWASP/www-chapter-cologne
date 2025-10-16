@@ -14,7 +14,18 @@ postal-code: 50670
 
 ## Next Event
 
-## November 27, 2025: Topic to be announced.
+## 48. Cologne OWASP Stammtisch  2025.11.27
+### MCP und Security - Dominik Guhr
+### REWE Digital, Schanzenstr. 6-20, Kupferwerk 2.20, 1 OG, Köln
+
+Diesmal an einem anderen Ort – wir sind zu Gast bei REWE Digital in Köln-Mülheim.
+Vielen Dank an das Team vor Ort für die Einladung und die erneute Gastfreundschaft!
+Im Fokus des Abends steht die Security rund um MCP und agentische KI-Systeme.
+Nach dem Talk gibt es wie immer Raum für Fragen, Diskussion und entspanntes Networking bei Snacks und Getränken.
+
+Alle sprechen über KI. Und natürlich soll sie auch sicher sein. Aber wie möglich oder unmöglich ist das derzeit? In diesem Vortrag diskutieren wir den aktuellen Stand der Technik – insbesondere im Kontext von MCP und agentischen KI-Systemen, von Angriffsvektoren bis IAM.
+Wenn ihr euch fragt: "Wie ist die Bedrohungslage? Welche Möglichkeiten gibt es für Authentifizierung, Autorisierung und generell für Laufzeit-Sicherheit? Ist OAuth wirklich der Weisheit letzter Schluss? Und wie sicher ist, dass das alles so bleibt?" – dann seid ihr genau richtig.
+Anhand einiger Live-Demos erhaltet ihr dabei einen Überblick über Angriffe auf KI und MCP, und Möglichkeiten, eure MCP Server mit IAM auszustatten. Ich freue mich auf den Austausch.
 
 
 ## About Us
@@ -45,7 +56,7 @@ Everyone is welcome and encouraged to participate. We especially encourage diver
 
 ## Upcoming Events 2025
 
-* November 27, 2025: Topic to be announced.
+* November 27, 2025: MCP und Security - Dominik Guhr
 
 
 

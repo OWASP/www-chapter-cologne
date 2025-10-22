@@ -19,7 +19,7 @@ postal-code: 50670
 ### REWE Digital, Schanzenstr. 6-20, Kupferwerk 2.20, 1 OG, Köln
 
 Diesmal an einem anderen Ort – wir sind zu Gast bei REWE Digital in Köln-Mülheim.
-Vielen Dank an das Team vor Ort für die Einladung und die erneute Gastfreundschaft!
+Vielen Dank an das Team vor Ort für die Einladung und die erneute Gastfreundschaft! Teilnehmende können an diesem Tag die Parkplätze von REWE Digital nutzen
 Im Fokus des Abends steht die Security rund um MCP und agentische KI-Systeme.
 Nach dem Talk gibt es wie immer Raum für Fragen, Diskussion und entspanntes Networking bei Snacks und Getränken.
 

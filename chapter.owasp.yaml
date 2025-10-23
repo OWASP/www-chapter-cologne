@@ -1,0 +1,31 @@
+community:
+  - name: chapter-cologne
+    platform: slack
+    url: https://owasp.slack.com/archives/C08TPAMSTNY
+leaders:
+  - name: Pablo Endres
+    email: pablo.endres@owasp.org
+    github: epabloseven
+  - name: Katherine Leese
+    email: katherine.leese@owasp.org
+  - name: Lars Hermerschmidt
+    email: lars.hermerschmidt@owasp.org
+location:
+  country: Germany
+  country_code: DE
+  region: North Rhine-Westphalia
+  city: Cologne
+  postal_code: '50670'
+  latitude: 50.938361
+  longitude: 6.959974
+meetup_group: tbd
+name: OWASP Cologne
+repositories:
+  - name: www-chapter-cologne
+    url: https://github.com/OWASP/www-chapter-cologne
+    description: OWASP Foundation web repository
+tags:
+  - Cologne
+  - Köln
+  - custom-tag-1
+website: https://owasp.org/www-chapter-cologne

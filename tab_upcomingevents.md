@@ -11,7 +11,7 @@ order: 1
 
 ### Upcoming Events
 
-## 49. Cologne OWASP Stammtisch  2026.01.15, 7PM
+## 50. Cologne OWASP Stammtisch  2026.01.15, 7PM
 
 For our next Stammtisch, we are looking for a speaker. [Please get in touch](https://docs.google.com/forms/d/e/1FAIpQLSc2DaMPeoVzaQTuB9ZecpMlMTa1ePqZasot1qO94jiscJRHDA/viewform?usp=header)
 

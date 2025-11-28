@@ -30,9 +30,6 @@ Die Absicherung der Software-Supply-Chain ist heute eine der größten Herausfor
 Slides - [OWASP Stammtisch #48 - Sicherheit in der Software Supply-Chain](slides/OWASP-Cologne-48-Sicherheit-in-der-Software-Supply-Chain.pdf)
 
 ## 47. Cologne OWASP Stammtisch  2025.07.24
-
-The talk will be followed by the opportunity to share your authentication war stories. 
-
 ### The Evolving Threat Landscape of OAuth: Securing the Backbone of Modern Authentication - Daniel Fett
 
 OAuth 2.0 is everywhere. It’s the foundation of secure delegated access on the web, powering everything from social logins to financial APIs and identity verification systems. It enables seamless user experiences and federated authentication through OpenID Connect, while also playing a growing role in emerging technologies like digital wallets. But with great adoption comes great responsibility—and, unfortunately, great risk.
@@ -42,6 +39,7 @@ OAuth wasn’t originally designed for the high-stakes environments it now prote
 In this talk, Daniel will explore the evolving security challenges of OAuth, dissect real-world attack scenarios, and break down the most crucial updates delivered by recently released specifications. Whether you're an architect, developer, or security leader, you’ll leave with a clear understanding of what’s changing, what’s at stake, and what you must do to keep your OAuth implementations secure.
 
 ## 46. Cologne OWASP Stammtisch am 22.05.2025
+### Meet the Racoons - Ghosts in the Pipeline - Melih Turhanlar and Benjamin-Yves Trapp
 
 OWASP Cologne und REWE digital laden zum nächsten Stammtisch ein. REWE digital gewährt exklusive Einblicke in sein Red Team – vorgestellt von der Racoonbande um Benji und Melih. Wir freuen uns über inspirierende Talks und Gespräche; Essen & Getränke gehen wie immer auf uns. Bis bald!
 
@@ -52,9 +50,9 @@ Melih & Benji zeigen euch: 🔍 Unsere Red Teaming Infrastruktur🎯 wie wir Tak
 Slides - [OWASP Stammtisch #42 - Meet the Raccoons - Ghosts in the pipelines.pdf](slides/OWASP_Stammtisch_42_Meet_the_Raccoons%20_Ghosts_in_the_pipelines.pdf)
 
 
-#### 45. Kölner OWASP Stammtisch am 27.03.2025
+## 45. Kölner OWASP Stammtisch am 27.03.2025
+### "Threat Informed Defense" - Timo Sablowski
 
-Talk: "Threat Informed Defense" - Timo Sablowski
   * Wie bereitet man sich effektiv auf Cyberangriffe vor? Statt Sicherheitsmaßnahmen mit der Gießkanne zu verteilen, setzt Threat Informed Defense auf echte Bedrohungsdaten und Angreifertaktiken, um Schutz gezielt zu priorisieren. In diesem Vortrag wird gezeigt, wie Unternehmen und Behörden ihre Verteidigung strategisch optimieren können.
   
 - [Verizon Data Breach Investigations Report](https://www.verizon.com/business/resources/reports/dbir/)
@@ -68,21 +66,21 @@ Talk: "Threat Informed Defense" - Timo Sablowski
 - [AttackIQ](https://www.attackiq.com/)
 
 
-#### 44. Kölner OWASP Stammtisch am 20.02.2025
+## 44. Kölner OWASP Stammtisch am 20.02.2025
 
 Wir haben diesmal keinen Vortragenden, aber wir treffen uns für eine Diskussionsrunde! Unser Ausgangspunkt für die Diskussion wird dieser Artikel sein:
 
 [Secure by Design – Google's Blueprint for a High-Assurance Web Framework](https://bughunters.google.com/blog/6644316274294784/secure-by-design-google-s-blueprint-for-a-high-assurance-web-framework) der einige interessante Ansätze zur sicheren Softwareentwicklung liefert.
 Danke an alle, die teilgenommen haben! Das nächste Treffen im März wird wieder mit einem Vortrag stattfinden.
 
-#### 43. Kölner OWASP Stammtisch am 21.11.2024
-
-- KI und API Sicherheit - Axel Grosse
+## 43. Kölner OWASP Stammtisch am 21.11.2024
+### KI und API Sicherheit - Axel Grosse
   
 Vortrag mit Live demo über die Gefahren, Möglichkeiten und Herausforderungen von Generativer KI im Umfeld von APIs.
 Mit ChatGPT hacken und mit Co-Pilot sichern
 
-#### 42. Sonderveranstaltunge des OWASP Köln Stammtisch – Jeff Williams in Köln am 09.10.2024
+## 42. Sonderveranstaltunge des OWASP Köln Stammtisch am 09.10.2024
+### OWASP and the Evolution of AppSec - Jeff Williams
 
 Wir freuen uns, eine ganz besondere Ausgabe des OWASP Köln Stammtisch ankündigen zu können! Jeff Williams, Gründer von OWASP, ist zu Besuch in Deutschland und wird am 9. Oktober 2024 in Köln einen Vortrag halten. Der Stammtisch beginnt um 18:30 Uhr und findet dieses Mal nicht wie gewohnt im Mediapark statt, sondern in den Räumlichkeiten der Gothaer Allgemeine Versicherung AG, Gothaer Allee 1, 50969 Köln.
 
@@ -90,51 +88,46 @@ Jeff wird über die Geschichte von OWASP und den aktuellen Stand der Anwendungss
 
 Verpasst nicht die Gelegenheit, diesen spannenden Abend mit uns zu verbringen!
 
-Jeff is the founder and CTO at Contrast Security, the leader in runtime application security for application security testing (AST) and application detection and response (ADR). Jeff is a veteran application security expert who also founded and led OWASP and Aspect Security.  Jeff created several highly successful open-source projects, including jbom, jot, OWASP Top Ten, WebGoat, ESAPI, ASVS, and more. Jeff has a BA from Virginia, an MA from George Mason, and a JD from Georgetown. He's also a two-time master’s basketball national champion who would love to connect on LinkedIn: [LinkedIn](https://www.linkedin.com/in/planetlevel/)
-
-##### OWASP and the Evolution of AppSec
+Jeff is the founder and CTO at Contrast Security, the leader in runtime application security for application security testing (AST) and application detection and response (ADR). Jeff is a veteran application security expert who also founded and led OWASP and Aspect Security.  Jeff created several highly successful open-source projects, including jbom, jot, OWASP Top Ten, WebGoat, ESAPI, ASVS, and more. Jeff has a BA from Virginia, an MA from George Mason, and a JD from Georgetown. He's also a two-time master’s basketball national champion who would love to connect on LinkedIn: [LinkedIn](https://www.linkedin.com/in/planetlevel/) 
 
 This is the most exciting time in the history of appsec.  Not only are apps/APIs more complex, connected, and critical than ever before, we haven't made much progress against vulnerabilities, the attackers have ramped up their activity dramatically, and the governments of the world are scrambling to figure out what to do.  It's a mess. In this talk, Jeff will share some stories and insights from over 25 years in appsec.  We'll look at some of the bigger movements in appsec like "build security in", "devsecops", "shift left", "SBOMs", and "secure by design" and talk about why they have largely failed to change the trajectory of appsec.  We'll also spend some time on the different technologies organizations use to automate appsec in development and operations.  Jeff will share his thoughts about the market failures that make improvements in appsec so difficult and what we can do to fix them.  This will be a highly interactive session, so bring your questions and ideas.
 
 
-#### 41. Kölner OWASP Stammtisch am 26.09.2024
-
-- Dissecting the Client Hello with Pyshark - Katherine Leese
+## 41. Kölner OWASP Stammtisch am 26.09.2024
+### Dissecting the Client Hello with Pyshark - Katherine Leese
  
 This talk covers using Pyshark for network capture files, focusing on accessing nested elements in network packets, particularly within Client Hello packets, including encryption suites and TLS versions. It provides a guide on effectively using Pyshark, addressing the gaps in current documentation and offering practical insights. The session will cover the basics of loading pcap files, inspecting packet types and layers, and using commands to list packet layers and extract details. It includes a practical example of extracting offered encryption suites from Client Hello packets to ensure secure encryption methods. By applying Wireshark display filters in Pyshark, packets can be identified efficiently. Key issues and solutions when using JSON and Python objects will be highlighted, helping avoid errors and process data smoothly. 
 
 
-#### 40. Kölner OWASP Stammtisch am 18.07.2024
-
-- "Die macht zu veränderung: Security-Kompetenz im Team Etablieren" - Lars (bob5sec)
+## 40. Kölner OWASP Stammtisch am 18.07.2024
+### Die macht zu veränderung: Security-Kompetenz im Team Etablieren - Lars (bob5sec)
 
 Nach dem Security-Training ist man oft voller Elan, mit seinem Team sichere Software zu entwickeln. Doch eine Schulung allein führt selten zu einem Team, das selbstständig Security-Aktivitäten übernimmt. Der Vortrag zeigt, wie mithilfe der Samman-Technical-Coaching-Methode und den Capabilities der Security Belts diese Herausforderungen gemeistert werden können. Es werden Methoden vorgestellt, um Security-Aktivitäten im Team zu etablieren; und persönliche Weiterentwicklungsmöglichkeiten zum Agile Technical Security Coach aufgezeigt.
 
 Nach der Präsentation ziehen wir uns in ein nahegelegenes Brauhaus zurück, um dort zu diskutieren und uns mit Erfrischungen zu stärken
 
-#### 39. Kölner OWASP Stammtisch am 23.05.2024
-
-- "Mind the Semantic Gap – Nutzung von Proxy, Cache & WAF für Angriffe auf Webanwendungen & Webservices" - Hoai Viet Nguyen
+## 39. Kölner OWASP Stammtisch am 23.05.2024
+### Mind the Semantic Gap – Nutzung von Proxy, Cache & WAF für Angriffe auf Webanwendungen & Webservices - Hoai Viet Nguyen
 
 Aktuelle Webanwendung und Webservices stehen nicht allein im Internet. Ihre Dienste liefern sie gemeinsam mit intermediären Systemen wie Proxy, Caches und Web Application Firewalls (WAFs) aus. HTTP-Requests durchlaufen dabei eine Vielzahl von Engines. Trotz RFC-Standards können HTTP-Nachrichten unterschiedlich von den jeweiligen intermediären Systemen interpretiert werden. Dabei verhält es sich wie bei Menschen, 6 Ohrenpaare verstehen die gleiche Aussage völlig unterschiedlich. RFC-Standards werden bei Apache, Nginx und Co. unterschiedlich ausgelegt, was neu entdeckte Angriffe auf Webanwendungen und Webservices ermöglicht. Diese bekommen durch die Nutzung von Cloud-Services eine besondere Relevanz, die bei der Software-Entwicklung und dem Software-Deployment zu beachten ist.
 
 Der Vortrag beschreibt Funktionsweise von Semantic Gap-Angriffen wie Request Smuggling, Response Splitting und Cache-Poisoned Denial of Service (CPDoS). Dabei wird die Relevanz beleuchtet und gezeigt, warum weitere Angriffe dieser Klasse in Zukunft auftauchen werden. Zudem werden Gegenmaßnahmen diskutiert.
 
 - Nach der Präsentation ziehen wir uns in ein nahegelegenes Brauhaus zurück, um dort zu diskutieren und uns mit Erfrischungen zu stärken.
+  
+Slides: [Mind the Semantic Gap](slides/Mind_the_semantic_gap.pdf)
 
 
-#### 38. Kölner OWASP Stammtisch am 14.03.2024
-
-- "LangSec for AppSec folks" - Lars (bob5sec)
+## 38. Kölner OWASP Stammtisch am 14.03.2024
+### LangSec for AppSec folks - Lars (bob5sec)
 
 The fundamental security principles described by LangSec explain the root cause of many security vulnerabilities and how to fix it.
 LangSec regards the Internet insecurity epidemic as a consequence of ad hoc programming of input handling. LangSec posits that the only path to trustworthy software that takes untrusted inputs is treating all valid or expected inputs and outputs as a formal language, and the respective input-handling routines as a parser respectively unparser for that language.
 
 - Nach dem Vortrag gehen wir in ein lokales Brauhaus für Diskussionen und Erfrischungen
 
-#### 37. Kölner OWASP Stammtisch am 26.10.2023
-   
-  - How to shield an IoT product from the OWASP IoT top 10 by Pablo Endres
+## 37. Kölner OWASP Stammtisch am 26.10.2023
+### How to shield an IoT product from the OWASP IoT top 10 by Pablo Endres
   - Anschließend gehen wir in ein lokales Brauhaus für unsere Diskussionsrunde.
 
 Slides:
@@ -148,7 +141,7 @@ Endlich ist es wieder soweit! Der OWASP Köln Stammtisch ist zurück.
 - Wie binde ich Sicherheit in den API Lebenszyklus ein und welche tools helfen mir dabei.  Ein Blick aus Sicht der API Entwickler und der Security Teams
 
 Slides:
-[Wie bekomme API so sicher wie möglich.pdf](slides/Wie%20bekomme%20API%20so%20sicher%20wie%20m%C3%B6glich.pdf)
+[Wie bekomme API so sicher wie möglich.pdf](slides/Wie%20bekomme%20API%20so%20sicher%20wie%20möglich.pdf)
 
 #### 35. Kölner OWASP Stammtisch am 12.05.2022
 

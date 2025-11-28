@@ -14,7 +14,7 @@ postal-code: 50670
 
 =======
 Next Event
----------------------------------------
+
 For our next event on 2026-01-15 we are looking for a speaker, see below for more info.
 
 ## About Us

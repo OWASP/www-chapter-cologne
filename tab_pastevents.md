@@ -11,6 +11,17 @@ order: 2
 
 ### Past Events
 
+## 49. Cologne OWASP Stammtisch  2025.11.27
+### MCP und Security - Dominik Guhr
+
+Im Fokus des Abends steht die Security rund um MCP und agentische KI-Systeme. Nach dem Talk gibt es wie immer Raum für Fragen, Diskussion und entspanntes Networking bei Snacks und Getränken.
+
+Alle sprechen über KI. Und natürlich soll sie auch sicher sein. Aber wie möglich oder unmöglich ist das derzeit? In diesem Vortrag diskutieren wir den aktuellen Stand der Technik – insbesondere im Kontext von MCP und agentischen KI-Systemen, von Angriffsvektoren bis IAM.
+Wenn ihr euch fragt: "Wie ist die Bedrohungslage? Welche Möglichkeiten gibt es für Authentifizierung, Autorisierung und generell für Laufzeit-Sicherheit? Ist OAuth wirklich der Weisheit letzter Schluss? Und wie sicher ist, dass das alles so bleibt?" – dann seid ihr genau richtig.
+Anhand einiger Live-Demos erhaltet ihr dabei einen Überblick über Angriffe auf KI und MCP, und Möglichkeiten, eure MCP Server mit IAM auszustatten. Ich freue mich auf den Austausch.
+
+Slides - [OWASP Stammtisch #49 - AI and MCP Security](slides/mcpsecurity_Dominik_Guhr.pdf)
+
 ## 48. Cologne OWASP Stammtisch  2025.09.18
 ### Sicherheit in der Software-Supply-Chain - Tim Bastin
 

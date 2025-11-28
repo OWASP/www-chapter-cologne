@@ -12,7 +12,7 @@ postal-code: 50670
 ## Welcome
 ![LOGO](assets/images/owasp-banner.png)
 
-=======
+
 Next Event
 
 For our next event on 2026-01-15 we are looking for a speaker, see below for more info.

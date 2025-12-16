@@ -1,3 +1,14 @@
+---
+
+layout:  col-sidebar
+title: resources
+displaytext: Resources
+tags: Cologne Köln
+tab: true
+order: 3
+
+---
+
 This is a collection of slides and resources from past events
 
 

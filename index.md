@@ -55,6 +55,7 @@ Everyone is welcome and encouraged to participate. We especially encourage diver
 {% comment %}
 {% include tab_pastevents.md group=page.meetup-group %}
 {% include upcomingevents.md group=page.meetup-group %}
+{% include resources.md group=page.meetup-group %}
 {% endcomment %}
 
 -->

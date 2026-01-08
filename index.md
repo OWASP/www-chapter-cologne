@@ -14,7 +14,7 @@ postal-code: 50670
 
 ## Upcoming Events 2025
 
-* January 15, 2026: Stammtisch at the Braustelle, Köln-Ehrenfeld
+* January 15, 2026: Stammtisch at the Braustelle, Köln-Ehrenfeld 7pm
 
 ## About Us
 

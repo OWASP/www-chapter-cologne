@@ -11,7 +11,7 @@ order: 1
 
 ### Upcoming Events
 
-## 50. Cologne OWASP Stammtisch  2026.01.15, 7PM
+## 50. Cologne OWASP Stammtisch  2026.01.15, 7PM, Braustelle, Köln-Ehrenfeld, Christianstraße 2
 
-For our next Stammtisch, we are looking for a speaker. [Please get in touch](https://docs.google.com/forms/d/e/1FAIpQLSc2DaMPeoVzaQTuB9ZecpMlMTa1ePqZasot1qO94jiscJRHDA/viewform?usp=header)
+To kick off 2026, we will meet at the Braustelle in Ehrenfeld, Cologne's smallest brewery, for an informal discussion round. This is the 50th Stammtisch, so we hope to see you there! We have a reserved a table so please RSVP so we can increase the reservation if needed.
 

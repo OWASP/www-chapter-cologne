@@ -11,6 +11,7 @@ order: 3
 
 This is a collection of slides and resources from past events
 
+[OWASP Chapter Cologne 2025 Xmas Newsletter](slides/2025-OWASP-Cologne-Chapter_Newsletter.pdf)
 
 [OWASP Stammtisch #49 - AI and MCP Security - Dominik Guhr](slides/mcpsecurity_Dominik_Guhr.pdf)
 

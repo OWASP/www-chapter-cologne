@@ -12,10 +12,9 @@ postal-code: 50670
 ## Welcome
 ![LOGO](assets/images/owasp-banner.png)
 
+## Upcoming Events 2025
 
-Next Event
-
-For our next event on 2026-01-15 we are looking for a speaker, see below for more info.
+* January 15, 2026: Stammtisch at the Braustelle, Köln-Ehrenfeld
 
 ## About Us
 
@@ -41,13 +40,6 @@ The Open Worldwide Application Security Project (OWASP) is a nonprofit foundatio
 Chapters are led by local leaders in accordance with the [Chapters Policy](/www-policy/operational/chapters). Financial contributions should only be made online using the authorized online donation button. 
 
 Everyone is welcome and encouraged to participate. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. 
-
-
-## Upcoming Events 2025
-
-* November 27, 2025: MCP und Security - Dominik Guhr
-
-
 
 <!--
 ## Next Meeting/Event

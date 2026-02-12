@@ -11,6 +11,9 @@ order: 2
 
 ### Past Events
 
+## 50. Cologne OWASP Stammtisch 2025.01.15
+### Meetup im Köln-Ehrenfeld - Braustelle
+
 ## 49. Cologne OWASP Stammtisch  2025.11.27
 ### MCP und Security - Dominik Guhr
 

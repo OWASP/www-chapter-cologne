@@ -22,6 +22,8 @@ In this talk Dimitrij will share the essence of the patterns and the strategies 
 
 This talk is aimed at developers, architects, and security practitioners working with distributed systems. It provides an overview of actually known IAM patterns that are however often unfamiliar in real-world projects.
 
+Slides - [OWASP Stammtisch #51 - Identity & Access Management](slides/OWASP_Cologne_51_Dimitrij_Drus_Identity_and_Access_Management.pdf)
+
 ## 50. Cologne OWASP Stammtisch 2025.01.15
 ### Meetup im Köln-Ehrenfeld - Braustelle
 

@@ -16,6 +16,8 @@ order: 2
 
 Konfigurationsfehler sind die häufigste Ursache für Schwachstellen in der Cloud. Etablierte Standards sind für die Bewertung dieser Cloud-spezifischen Schwachstellen nur unzureichend geeignet. Beispielsweise sind die Auswirkungen der Ausnutzung eines Konfigurationsfehlers mit den Metriken etablierter Scoring Systeme nicht sinnvoll zu erfassen. Das neue Cloud Configuration Vulnerability Scoring System (CCVSS) liefert dafür eine Lösung: Die Metriken von CCVSS sind angepasst, beziehen die Umgebung mit ein und berücksichtigen die Effektivität mitigierender Maßnahmen. Neben der Vorstellung des CCVSS demonstrieren wir anhand konkreter Praxisbeispiele seine Anwendung.
 
+Slides - [OWASP Stammtisch #52 - Schwachstellen in der Cloud](slides/Cloud_Security_Scoring-Schwachstellen_OWASP_Chapter_Cologne_2026.pdf)
+
 ## 51. Cologne OWASP Stammtisch 2026-03-26
 ## Why IAM Remains a Challenge and What We Can Do About It - Dimitrij Drus
 

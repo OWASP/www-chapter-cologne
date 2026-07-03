@@ -42,6 +42,12 @@ Chapters are led by local leaders in accordance with the [Chapters Policy](/www-
 
 Everyone is welcome and encouraged to participate. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. 
 
+![LOGO](assets/images/InfoSecMap-logo.png)
+
+Infosecmap is our Community Partner
+
+[InfoSecMap](https://infosecmap.com/) is your global go-to platform to explore the cybersecurity ecosystem. Discover conferences, CTFs, meetups, podcasts, and more, plus opportunities like call for papers, sponsors, and volunteers. Always community-first and free to use.
+
 <!--
 ## Next Meeting/Event
 ---------------------

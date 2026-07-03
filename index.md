@@ -42,7 +42,7 @@ Chapters are led by local leaders in accordance with the [Chapters Policy](/www-
 
 Everyone is welcome and encouraged to participate. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. 
 
-![LOGO](assets/images/InfoSecMap-logo.png)
+![LOGO](assets/images/InfoSecMap-logo.png){: width="200" }
 
 Infosecmap is our Community Partner
 

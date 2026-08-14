@@ -12,7 +12,7 @@ postal-code: 50670
 ## Welcome
 ![LOGO](assets/images/owasp-banner.png)
  
-#### 53. Cologne OWASP Stammtisch 19uhr  2026.09.17
+### 53. Cologne OWASP Stammtisch September 17, 2026, 7pm
 ##### OAuth 2.1 - Evolution, revolution, or does it matter at all? - Dimitrij Drus
 ##### STARTPLATZ, Im Mediapark 5, Koeln, 1st Etage, Raum Rom
 
